@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime Suárez</h1>
 <h3 align="center">A passionate developer from Chile 🆑</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuarezl&label=Profile%20views&color=0e75b6&style=flat" alt="jsuarezl" /> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=jsuarezl&label=Profile%20views&color=ff4444&style=flat-square)
 
 - 🌱 I’m currently learning **PostgreSQL, Blockchain**
 
